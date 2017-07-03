@@ -1,5 +1,7 @@
 # TrustCoreID Demo
-For US Federal Credit Union Identity Use Case Demo  
+
+* GitHub code repository for US Federal Credit Union Identity Use Case Demo  
+* GitHub Pages Project Splash Page: [https://civics.github.io/TrustCoreID](https://civics.github.io/TrustCoreID)
 
 ## Preparing dev environment
 
